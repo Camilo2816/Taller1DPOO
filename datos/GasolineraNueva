@@ -1,0 +1,13 @@
+tipo:CORRIENTE:15000:500.0
+tipo:ACPM:10000:500.0
+tipo:DIESEL:14000:500.0
+tipo:EXTRA:20000:500.0
+surtidor:Esteban:CORRIENTE:0.0:ACPM:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Camilo:CORRIENTE:0.0:ACPM:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Andres:CORRIENTE:0.0:ACPM:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Camilo:CORRIENTE:0.0:ACPM:0.0:DIESEL:0.0:EXTRA:0.0
+empleado:Andres:0
+empleado:Camilo:0
+empleado:Juan:0
+empleado:Esteban:0
+empleado:Ernesto:0
